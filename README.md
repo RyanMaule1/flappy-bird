@@ -1,3 +1,3 @@
 # Flappy Bird
 
-Info about your project goes here
+This is a Java implementation of the classic Flappy Bird game. Players control a bird that must navigate through a series of gaps between pipes by pressing the space bar to make the bird "flap" and stay airborne. The game includes realistic physics, scoring based on the number of successfully passed pipes, and high score tracking.  
